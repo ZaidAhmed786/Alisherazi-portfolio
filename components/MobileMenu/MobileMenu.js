@@ -23,11 +23,7 @@ const menus = [
         title: 'Portfolio',
         link: 'portfolio',
     },
-    {
-        id: 5,
-        title: 'Blog',
-        link: 'blog',
-    },
+ 
     {
         id: 5,
         title: 'Contact',

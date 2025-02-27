@@ -69,14 +69,14 @@
 .tp-hero-title h1 {
 	font-size: 150px;
 	font-weight: 900;
-	line-height: 115px;
+	line-height: 135px;
 	
-	margin: 10px 0 25px;
+	margin: 100px 0 25px;
 	color: $white;
 
 	@media(max-width:1500px) {
 		font-size: 100px;
-		line-height: 90px;
+		line-height: 100px;
 	}
 
 	@media(max-width:1399px) {
@@ -91,6 +91,8 @@
 
 	@media(max-width:991px) {
 		text-align: center;
+		margin: 140px 0 25px;
+
 	}
 
 	@media(max-width:767px) {
@@ -181,7 +183,7 @@
 	}
 
 	.right-img {
-		@media(max-width:1500px) {
+		@media(max-width:1800px) {
 			text-align: end;
 		}
 
@@ -190,11 +192,17 @@
 			@media(max-width:1800px) {
 				width: 800px;	
 			}
-			@media(max-width:1500px) {
+			@media(max-width:1600px) {
 				width: 600px;	
+			}
+			@media(max-width:1500px) {
+				width: 550px;	
 			}
 			@media(max-width:1300px) {
 				width: 500px;	
+			}
+			@media(max-width:768px) {
+				width: 400px;	
 			}
 			@media(max-width:450px) {
 				width: 300px;	
@@ -289,12 +297,12 @@
 		text-transform: uppercase;
 
 		@media(max-width:1700px) {
-			font-size: 140px;
+			font-size: 180px;
 			line-height: 200px;
 		}
 
 		@media(max-width:1600px) {
-			font-size: 140px;
+			font-size: 150px;
 			line-height: 200px;
 		}
 

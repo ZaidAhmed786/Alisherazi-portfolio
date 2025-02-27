@@ -38,7 +38,7 @@ const Hero =() => {
                 </ul>
             </div>
             <div className="visible-text">
-                <h3 ><span style={{color: "#FA7b0e"}}>HUSTLER</span>BRIDGE</h3>
+                <h3 style={{color: "white"}} ><span style={{color: "#FA7b0e"}}>HUSTLER</span>BRIDGE</h3>
             </div>
         </section>
     )
